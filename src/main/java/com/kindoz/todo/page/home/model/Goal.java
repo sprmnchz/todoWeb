@@ -5,7 +5,7 @@ import lombok.Data;
 import java.util.ArrayList;
 
 @Data
-public class Target {
+public class Goal {
 
     private int lastIdStep;
     private ArrayList<Step> target = new ArrayList<>();
