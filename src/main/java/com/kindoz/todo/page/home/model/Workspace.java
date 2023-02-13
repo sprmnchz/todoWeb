@@ -22,7 +22,7 @@ public class Workspace {
         return workspace.indexOf(goal);
     }
 
-    public int sizeWorkspace () {
+    public int lastIndex () {
         return workspace.size();
     }
 
